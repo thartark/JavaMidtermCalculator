@@ -27,4 +27,4 @@
 
 A CNN link: https://cnn.com
 
-[An internal repo link](../README.md)
+[An internal repo link](../blob/master/README.md)
